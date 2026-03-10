@@ -1,16 +1,22 @@
 # Sistema Bancário em Python
 
-Projeto simples de terminal simulando operações bancárias.
+Projeto simples feito em Python para praticar lógica de programação.
 
-Funcionalidades:
+## Funcionalidades
+
 - Ver saldo
 - Sacar dinheiro
 - Depositar dinheiro
 - Menu interativo
 - Submenu de atendimento
 
-Tecnologia utilizada:
-Python
+## Tecnologias
 
-Objetivo:
-Projeto criado para prática de lógica de programação.
+- Python
+
+## Como executar
+
+1. Baixe o projeto
+2. Execute:
+
+python banco.py
